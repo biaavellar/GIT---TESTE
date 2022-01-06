@@ -1,0 +1,1 @@
+Este projeto é uma demonstração de como utilizar o GIT.
